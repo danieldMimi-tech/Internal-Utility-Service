@@ -1,1 +1,4 @@
-Flask==2.2.5
+flask
+pytest
+flake8
+requests
