@@ -1,8 +1,9 @@
-__pycache__
-*.pyc
-*.pyo
-.env
+node_modules
+npm-debug.log
 .git
 .gitignore
-*.md
-tests/
+.env
+README.md
+Dockerfile
+.dockerignore
+build
